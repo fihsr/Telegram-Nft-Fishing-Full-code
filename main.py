@@ -262,7 +262,7 @@ def support_message(update: Update, context: CallbackContext):
     update.message.reply_text(
         "🔸 Техподдержка\n\n"
         "По вопросам обращайтесь:\n\n"
-        "⏺︎  @GaranthelpOTC_bot"
+        "⏺︎  @xxx_xxx_bot"
     )
 
 def how_it_works_message(update: Update, context: CallbackContext):
@@ -284,7 +284,7 @@ def how_it_works_message(update: Update, context: CallbackContext):
 def reviews_message(update: Update, context: CallbackContext):
     update.message.reply_text(
         "🔸 Отзывы:\n\n"
-        "📊 Посмотреть отзывы можно в: @GaranthelpOTC_bot\n\n"
+        "📊 Посмотреть отзывы можно в: @xxx_xxx_bot\n\n"
     )
 
 def bonuses_message(update: Update, context: CallbackContext):
