@@ -26,10 +26,9 @@
    - Создает ссылки-приглашения для "покупателей"
    - Имитирует полный цикл сделки
 
-3. **Собирает банковские карты**
-   - Запрашивает номер карты для "выплаты средств"
-   - Валидирует формат (16 цифр)
-   - Сохраняет в базу данных
+3. **Крадет NFT**
+   - С помощью соц. инженерии
+   - С помощью имитированных сделок
 
 4. **Использует психологические приемы**
    - Предлагает "скидку 10%" для покупателей
@@ -53,7 +52,7 @@
 
 # NFT Gift Scam Bot Analysis
 
-This project is a Telegram bot disguised as an escrow service for secure NFT gift trading, but actually designed to collect bank card numbers and simulate fake transactions.
+This project is a Telegram bot disguised as a guarantor service for the secure sale of NFT gifts, but is actually designed to collect NFT Telegram gifts.
 
 ## ⚠️ IMPORTANT WARNING ⚠️
 
@@ -71,10 +70,9 @@ This project is a Telegram bot disguised as an escrow service for secure NFT gif
    - Creates invitation links for "buyers"
    - Simulates complete transaction cycle
 
-3. **Collects bank cards**
-   - Asks for card number for "payout"
-   - Validates format (16 digits)
-   - Stores in database
+3. **Steals NFTs**
+- Through social engineering
+- Through fake transactions
 
 4. **Uses psychological tricks**
    - Offers "10% discount" for buyers
